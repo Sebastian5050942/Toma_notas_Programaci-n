@@ -48,3 +48,9 @@ Binario:  1101
 # Clase 30 de Julio / 2026
 
 - Nota: ¿Que característica tiene un Algoritmo? > Pregunta de Parcial
+
+# Clase 04 de Agosto / 2026
+
+- Operadores Aritméticos:
+
+
