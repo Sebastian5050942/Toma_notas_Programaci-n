@@ -12,55 +12,25 @@
             <mxPoint x="425" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EcBIretTazvdTmWIlWwX-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Leer valor de la compra" vertex="1">
+        <mxCell id="EcBIretTazvdTmWIlWwX-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Leer numero de alumnos" vertex="1">
           <mxGeometry height="80" width="260" x="295" y="110" as="geometry" />
         </mxCell>
         <mxCell id="EcBIretTazvdTmWIlWwX-4" edge="1" parent="1" source="EcBIretTazvdTmWIlWwX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="EcBIretTazvdTmWIlWwX-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EcBIretTazvdTmWIlWwX-22" edge="1" parent="1" source="EcBIretTazvdTmWIlWwX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+        <mxCell id="7-qYJTsRizTvkSpZqLON-15" edge="1" parent="1" source="EcBIretTazvdTmWIlWwX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7-qYJTsRizTvkSpZqLON-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="114.99999999999977" y="520" as="targetPoint" />
+            <mxPoint x="425" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EcBIretTazvdTmWIlWwX-23" edge="1" parent="1" source="EcBIretTazvdTmWIlWwX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="735" y="520" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EcBIretTazvdTmWIlWwX-8" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="¿Compra &amp;gt; 250.000?" vertex="1">
+        <mxCell id="EcBIretTazvdTmWIlWwX-8" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="¿Alumnos&amp;nbsp;&lt;span style=&quot;font-size: 15px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;≥ 100?&lt;/span&gt;" vertex="1">
           <mxGeometry height="135" width="200" x="325" y="350" as="geometry" />
-        </mxCell>
-        <mxCell id="EcBIretTazvdTmWIlWwX-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VERDADERO" vertex="1">
-          <mxGeometry width="60" x="185" y="390" as="geometry" />
-        </mxCell>
-        <mxCell id="EcBIretTazvdTmWIlWwX-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="FALSO" vertex="1">
-          <mxGeometry height="190" width="60" x="595" y="300" as="geometry" />
-        </mxCell>
-        <mxCell id="EcBIretTazvdTmWIlWwX-24" edge="1" parent="1" source="EcBIretTazvdTmWIlWwX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="424.9999999999998" y="650.0000000000002" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EcBIretTazvdTmWIlWwX-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Descuento = 15%" vertex="1">
-          <mxGeometry height="60" width="120" x="55" y="520" as="geometry" />
-        </mxCell>
-        <mxCell id="EcBIretTazvdTmWIlWwX-25" edge="1" parent="1" source="EcBIretTazvdTmWIlWwX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="404.9999999999998" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EcBIretTazvdTmWIlWwX-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Descuento = 8%" vertex="1">
-          <mxGeometry height="60" width="120" x="675" y="520" as="geometry" />
         </mxCell>
         <mxCell id="EcBIretTazvdTmWIlWwX-31" edge="1" parent="1" source="EcBIretTazvdTmWIlWwX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="425" y="90" as="sourcePoint" />
             <mxPoint x="425" y="110" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="EcBIretTazvdTmWIlWwX-34" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="FIN" vertex="1">
-          <mxGeometry height="80" width="120" x="365" y="910" as="geometry" />
         </mxCell>
         <mxCell id="7-qYJTsRizTvkSpZqLON-11" edge="1" parent="1" source="7-qYJTsRizTvkSpZqLON-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
@@ -70,21 +40,72 @@
         <mxCell id="7-qYJTsRizTvkSpZqLON-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Calcular volumen = (Largo * Ancho * Alto)" vertex="1">
           <mxGeometry height="60" width="150" x="350" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="7-qYJTsRizTvkSpZqLON-10" edge="1" parent="1" source="7-qYJTsRizTvkSpZqLON-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+        <mxCell id="7-qYJTsRizTvkSpZqLON-17" edge="1" parent="1" source="7-qYJTsRizTvkSpZqLON-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7-qYJTsRizTvkSpZqLON-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="425" y="910.0000000000002" as="targetPoint" />
+            <mxPoint x="425" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7-qYJTsRizTvkSpZqLON-9" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="Mostrar descuento y total a pagar" vertex="1">
-          <mxGeometry height="80" width="120" x="365" y="770" as="geometry" />
+        <mxCell id="7-qYJTsRizTvkSpZqLON-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Costo = 65$" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="510" as="geometry" />
         </mxCell>
-        <mxCell id="7-qYJTsRizTvkSpZqLON-14" edge="1" parent="1" source="7-qYJTsRizTvkSpZqLON-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+        <mxCell id="7-qYJTsRizTvkSpZqLON-19" edge="1" parent="1" source="7-qYJTsRizTvkSpZqLON-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7-qYJTsRizTvkSpZqLON-20">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="425" y="770.0000000000002" as="targetPoint" />
+            <mxPoint x="90.00000000000023" y="710.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7-qYJTsRizTvkSpZqLON-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Total a pagar = Compra - Descuento" vertex="1">
-          <mxGeometry height="60" width="230" x="310" y="650" as="geometry" />
+        <mxCell id="7-qYJTsRizTvkSpZqLON-18" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="¿Alumnos&amp;nbsp;&lt;span style=&quot;font-size: 15px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;≥ 50?&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="325" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="7-qYJTsRizTvkSpZqLON-21" edge="1" parent="1" source="7-qYJTsRizTvkSpZqLON-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="770.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-qYJTsRizTvkSpZqLON-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Costo = 70$" vertex="1">
+          <mxGeometry height="60" width="120" x="50.00000000000023" y="700.0000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="7-qYJTsRizTvkSpZqLON-24" edge="1" parent="1" source="7-qYJTsRizTvkSpZqLON-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7-qYJTsRizTvkSpZqLON-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="860.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-qYJTsRizTvkSpZqLON-22" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Alumnos&amp;nbsp;&lt;span style=&quot;font-size: 15px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;≥ 30?&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="110" x="365" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="7-qYJTsRizTvkSpZqLON-26" edge="1" parent="1" source="7-qYJTsRizTvkSpZqLON-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="890.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-qYJTsRizTvkSpZqLON-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Costo = 95" vertex="1">
+          <mxGeometry height="60" width="120" x="710" y="860.0000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="7-qYJTsRizTvkSpZqLON-28" edge="1" parent="1" source="7-qYJTsRizTvkSpZqLON-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300.0000000000002" y="890.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-qYJTsRizTvkSpZqLON-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Total = 4000$ y costo por alumno = Total/Alumnos" vertex="1">
+          <mxGeometry height="60" width="120" x="410" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="7-qYJTsRizTvkSpZqLON-30" edge="1" parent="1" source="7-qYJTsRizTvkSpZqLON-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300.0000000000002" y="960.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-qYJTsRizTvkSpZqLON-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Calcular pago total" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="7-qYJTsRizTvkSpZqLON-33" edge="1" parent="1" source="7-qYJTsRizTvkSpZqLON-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7-qYJTsRizTvkSpZqLON-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-qYJTsRizTvkSpZqLON-32" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="Mostrar costo por alumno y pago total" vertex="1">
+          <mxGeometry height="80" width="120" x="240" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="7-qYJTsRizTvkSpZqLON-34" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="FIN" vertex="1">
+          <mxGeometry height="40" width="75" x="425" y="1050" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
