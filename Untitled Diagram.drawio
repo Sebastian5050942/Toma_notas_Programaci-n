@@ -1,0 +1,80 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="FzcyJG7fHVqDoC9ilBim">
+    <mxGraphModel dx="1166" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EcBIretTazvdTmWIlWwX-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;INICIO&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="365" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="EcBIretTazvdTmWIlWwX-37" edge="1" parent="1" source="EcBIretTazvdTmWIlWwX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="EcBIretTazvdTmWIlWwX-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EcBIretTazvdTmWIlWwX-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Leer cantidad de lápices&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="260" x="295" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EcBIretTazvdTmWIlWwX-4" edge="1" parent="1" source="EcBIretTazvdTmWIlWwX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="EcBIretTazvdTmWIlWwX-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EcBIretTazvdTmWIlWwX-22" edge="1" parent="1" source="EcBIretTazvdTmWIlWwX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="119.99999999999977" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EcBIretTazvdTmWIlWwX-23" edge="1" parent="1" source="EcBIretTazvdTmWIlWwX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EcBIretTazvdTmWIlWwX-8" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="¿Cantidad&amp;nbsp;&amp;nbsp;&lt;span style=&quot;font-size: 15px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;≥ 1000?&lt;/span&gt;" vertex="1">
+          <mxGeometry height="135" width="200" x="325" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="EcBIretTazvdTmWIlWwX-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VERDADERO" vertex="1">
+          <mxGeometry width="60" x="190" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="EcBIretTazvdTmWIlWwX-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="FALSO" vertex="1">
+          <mxGeometry height="190" width="60" x="600" y="265" as="geometry" />
+        </mxCell>
+        <mxCell id="EcBIretTazvdTmWIlWwX-24" edge="1" parent="1" source="EcBIretTazvdTmWIlWwX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="429.9999999999998" y="620.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EcBIretTazvdTmWIlWwX-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Precio = 85" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="EcBIretTazvdTmWIlWwX-25" edge="1" parent="1" source="EcBIretTazvdTmWIlWwX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="409.9999999999998" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EcBIretTazvdTmWIlWwX-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Precio = 90" vertex="1">
+          <mxGeometry height="60" width="120" x="680" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="EcBIretTazvdTmWIlWwX-31" edge="1" parent="1" source="EcBIretTazvdTmWIlWwX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EcBIretTazvdTmWIlWwX-26" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="90" as="sourcePoint" />
+            <mxPoint x="425" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EcBIretTazvdTmWIlWwX-33" edge="1" parent="1" source="EcBIretTazvdTmWIlWwX-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="EcBIretTazvdTmWIlWwX-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EcBIretTazvdTmWIlWwX-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Total = Cantidad * Precio" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EcBIretTazvdTmWIlWwX-34" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="FIN" vertex="1">
+          <mxGeometry height="80" width="120" x="365" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="7-qYJTsRizTvkSpZqLON-4" edge="1" parent="1" source="7-qYJTsRizTvkSpZqLON-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-qYJTsRizTvkSpZqLON-3" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="Mostrar total a pagar" vertex="1">
+          <mxGeometry height="80" width="120" x="365" y="620" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
