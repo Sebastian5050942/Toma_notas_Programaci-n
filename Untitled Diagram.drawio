@@ -17,7 +17,7 @@
             <mxPoint x="400" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hi0zErcMchANZG2B7OKk-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Inicializar lisra de archivos" vertex="1">
+        <mxCell id="Hi0zErcMchANZG2B7OKk-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Inicializar lista de archivos" vertex="1">
           <mxGeometry height="60" width="120" x="340" y="150" as="geometry" />
         </mxCell>
         <mxCell id="Hi0zErcMchANZG2B7OKk-23" edge="1" parent="1" source="Hi0zErcMchANZG2B7OKk-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
@@ -63,8 +63,30 @@
         <mxCell id="Hi0zErcMchANZG2B7OKk-32" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Continuar&lt;/font&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="610" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="Hi0zErcMchANZG2B7OKk-35" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
-          <mxGeometry height="80" width="80" x="360" y="590" as="geometry" />
+        <mxCell id="Hi0zErcMchANZG2B7OKk-36" edge="1" parent="1" source="Hi0zErcMchANZG2B7OKk-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hi0zErcMchANZG2B7OKk-37" edge="1" parent="1" source="Hi0zErcMchANZG2B7OKk-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hi0zErcMchANZG2B7OKk-35" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="¿Altitud &amp;gt; 0?" vertex="1">
+          <mxGeometry height="80" width="200" x="300" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi0zErcMchANZG2B7OKk-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VERDADERO" vertex="1">
+          <mxGeometry height="30" width="60" x="190" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi0zErcMchANZG2B7OKk-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="FALSO" vertex="1">
+          <mxGeometry height="30" width="60" x="570" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi0zErcMchANZG2B7OKk-41" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="Ir al resumen final" vertex="1">
+          <mxGeometry height="80" width="120" x="40" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi0zErcMchANZG2B7OKk-43" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Corregir Velocidad" vertex="1">
+          <mxGeometry height="80" width="120" x="610" y="690" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
