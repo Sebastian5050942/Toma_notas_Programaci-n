@@ -39,16 +39,70 @@
         <mxCell id="z5F1ctak4wxg7sHS9ube-6" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Leer consumo" vertex="1">
           <mxGeometry height="60" width="120" x="20" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="z5F1ctak4wxg7sHS9ube-9" edge="1" parent="1" source="z5F1ctak4wxg7sHS9ube-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+        <mxCell id="z5F1ctak4wxg7sHS9ube-14" edge="1" parent="1" source="z5F1ctak4wxg7sHS9ube-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="390" as="targetPoint" />
+            <mxPoint x="390" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z5F1ctak4wxg7sHS9ube-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Total = Total + Consumo" vertex="1">
           <mxGeometry height="60" width="120" x="330" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="z5F1ctak4wxg7sHS9ube-10" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
-          <mxGeometry height="80" width="80" x="590" y="350" as="geometry" />
+        <mxCell id="z5F1ctak4wxg7sHS9ube-15" edge="1" parent="1" source="z5F1ctak4wxg7sHS9ube-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5F1ctak4wxg7sHS9ube-16" edge="1" parent="1" source="z5F1ctak4wxg7sHS9ube-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5F1ctak4wxg7sHS9ube-10" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="¿Consumo &amp;gt; Limite?" vertex="1">
+          <mxGeometry height="80" width="110" x="335" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="z5F1ctak4wxg7sHS9ube-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VERDADERO" vertex="1">
+          <mxGeometry height="30" width="60" x="170" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="z5F1ctak4wxg7sHS9ube-20" edge="1" parent="1" source="z5F1ctak4wxg7sHS9ube-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5F1ctak4wxg7sHS9ube-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Alertas = Alertas + 1" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="z5F1ctak4wxg7sHS9ube-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="FALSO" vertex="1">
+          <mxGeometry height="30" width="60" x="530" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="z5F1ctak4wxg7sHS9ube-21" edge="1" parent="1" source="z5F1ctak4wxg7sHS9ube-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5F1ctak4wxg7sHS9ube-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Hora = Hora + 1" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="z5F1ctak4wxg7sHS9ube-24" edge="1" parent="1" source="z5F1ctak4wxg7sHS9ube-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5F1ctak4wxg7sHS9ube-23" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="¿Hora &amp;lt; 24?" vertex="1">
+          <mxGeometry height="80" width="80" x="350" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="z5F1ctak4wxg7sHS9ube-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="FALSO" vertex="1">
+          <mxGeometry height="30" width="60" x="240" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="z5F1ctak4wxg7sHS9ube-27" edge="1" parent="1" source="z5F1ctak4wxg7sHS9ube-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5F1ctak4wxg7sHS9ube-26" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Mostrar total y alertas&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="z5F1ctak4wxg7sHS9ube-28" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="FIN&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="120" y="800" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
