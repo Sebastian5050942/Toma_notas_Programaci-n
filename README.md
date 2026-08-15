@@ -1,3 +1,9 @@
+Buenas tardes muchachos. Les escribo para informarles lo siguiente:
+La evaluación del repositorio de la unidad 2 se hará mediante una coevaluación.
+Tienen hasta el sábado a medianoche enviar el link de su repositorio al compañero que lo evalúa (mire la tabla para ver quién lo evalúa). Si no envía el link en el tiempo estipulado, su repositorio no será considerado para evaluación y la nota definitiva será la del parcial.
+Las evaluaciones deben estar realizadas hasta el martes a medianoche. 
+
+
 # Clase 28 de Julio / 2026
 
 Decimal:  13
