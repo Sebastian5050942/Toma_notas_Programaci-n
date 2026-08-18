@@ -120,3 +120,27 @@ Binario:  1101
 - Conjunto de herramientas que permite editar codigos, usando Shell, Editor e Interpretes
 
 Python, Visual Studio Code y Colab
+
+# Actividad:
+
+- Toma un pseudocódigo de un ejercicio de la unidad anterior o escribe tu propio pseudocódigo, similar al mostrado en el ejemplo de arriba
+
+## Ejericio:
+
+<img width="473" height="596" alt="image" src="https://github.com/user-attachments/assets/56340565-134c-4a9f-a41e-ffa1b541596a" />
+
+### Solucionamos en Python:
+
+<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/ca922ccc-f532-44e2-bf1b-551552af70bd" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e04da9ca-987a-4941-b862-784942387855" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/fec5188e-0fb7-454e-bf80-954eded86366" />
+
+<img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/dcdbf485-bb29-4104-91a6-82aed9e8a304" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/49aa75f6-6def-4eea-9ba3-a63165e35e7e" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/cdc17fce-655f-4019-b390-72eaa6a317e2" />
+
+
