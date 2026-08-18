@@ -68,4 +68,55 @@ Binario:  1101
     
     Durante un ensayo en banco de un motor a reacción, se mide el nivel de combustible cada minuto y se detiene el registro cuando el combustible baja del 10%. Mostrar el tiempo total de operación antes de llegar a ese punto.
 
+# Clase 18 de Agosto / 2026
 
+## Trabajo en Python:
+
+<img width="694" height="709" alt="image" src="https://github.com/user-attachments/assets/d8e5171b-5a87-4ab8-b6ed-fdb3017dc39e" />
+
+
+## Programar:
+
+### Primero debemos guardar un nuevo archivo:
+
+<img width="644" height="370" alt="image" src="https://github.com/user-attachments/assets/063c1359-e51b-450c-b44f-91fbec5b2cf2" />
+
+### Después programamos: 
+
+<img width="1360" height="737" alt="image" src="https://github.com/user-attachments/assets/cb7a6eab-402d-4638-8c11-0f77c61cedab" />
+
+- Run Module o F5
+
+## Errores comunes:
+
+- No poner las " de abrir y cerrar
+
+<img width="1353" height="730" alt="image" src="https://github.com/user-attachments/assets/2aeffe6e-414b-4b46-8647-f41e8dba58f8" />
+
+## Iniciar Visual Studio Code:
+
+### 1) Abrir carpeta (Unidad3):
+
+<img width="1181" height="727" alt="image" src="https://github.com/user-attachments/assets/8c92d2ec-2d0e-46b9-a1c3-1d0e86d82f09" />
+
+### 2) Python:
+
+<img width="1193" height="792" alt="image" src="https://github.com/user-attachments/assets/b70ba2af-c100-4054-8d1c-84243582cb93" />
+
+# Actividad:
+
+1. Crea un script de Python y edítalo tanto con el IDLE de Python, como con VS Code. 
+2. Crea una cuenta en Google Colab y crea un código de Python, prueba que funcione. Agrega un bloque de texto y explica qué fue lo que hiciste. 
+3. Agrega imágenes (pantallazos) utilizando cada uno de los IDEs vistos en esta actividad.
+4. Responde las siguientes preguntas con tus propias palabras (Nada de definiciones con IA o copiadas de internet). 
+    1. ¿Qué es un IDE?
+    2. ¿Cuál es la diferencia entre los 3 IDEs estudiados en esta actividad?
+    3. ¿Cuál utilizarás en el resto del curso y por qué?
+
+## Solución:
+
+# IDE:
+
+- Conjunto de herramientas que permite editar codigos, usando Shell, Editor e Interpretes
+
+Python, Visual Studio Code y Colab
