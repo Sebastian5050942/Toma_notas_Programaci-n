@@ -1,0 +1,147 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="pGT5FiGNWFxeREek7Mw5">
+    <mxGraphModel dx="1030" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jtNqFM774UwbAb-JNxaB-2" edge="1" parent="1" source="jtNqFM774UwbAb-JNxaB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jtNqFM774UwbAb-JNxaB-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="INICIO" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jtNqFM774UwbAb-JNxaB-4" edge="1" parent="1" source="jtNqFM774UwbAb-JNxaB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jtNqFM774UwbAb-JNxaB-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Inicializar:&lt;div&gt;Tiempo = 0&lt;/div&gt;&lt;div&gt;Altitud_previa = 0&lt;/div&gt;&lt;div&gt;Altitud_maxima = 0&lt;/div&gt;&lt;div&gt;Apogeo_detectado = Falso&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="210" x="310" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="jtNqFM774UwbAb-JNxaB-7" edge="1" parent="1" source="jtNqFM774UwbAb-JNxaB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jtNqFM774UwbAb-JNxaB-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jtNqFM774UwbAb-JNxaB-5" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Ingresar: Presión, aceleración y temperatura" vertex="1">
+          <mxGeometry height="60" width="200" x="310" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="jtNqFM774UwbAb-JNxaB-9" edge="1" parent="1" source="jtNqFM774UwbAb-JNxaB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jtNqFM774UwbAb-JNxaB-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jtNqFM774UwbAb-JNxaB-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Calcular altitud actual" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="jtNqFM774UwbAb-JNxaB-11" edge="1" parent="1" source="jtNqFM774UwbAb-JNxaB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jtNqFM774UwbAb-JNxaB-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jtNqFM774UwbAb-JNxaB-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Determinar estado de vuelo" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="jtNqFM774UwbAb-JNxaB-13" edge="1" parent="1" source="jtNqFM774UwbAb-JNxaB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jtNqFM774UwbAb-JNxaB-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jtNqFM774UwbAb-JNxaB-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Evaluar alerta de temperatura" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="jtNqFM774UwbAb-JNxaB-15" edge="1" parent="1" source="jtNqFM774UwbAb-JNxaB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jtNqFM774UwbAb-JNxaB-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jtNqFM774UwbAb-JNxaB-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Actualizar altitud máxima, temperatura promedio y aceleración máxima" vertex="1">
+          <mxGeometry height="70" width="120" x="350" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="jtNqFM774UwbAb-JNxaB-17" edge="1" parent="1" source="jtNqFM774UwbAb-JNxaB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jtNqFM774UwbAb-JNxaB-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jtNqFM774UwbAb-JNxaB-18" edge="1" parent="1" source="jtNqFM774UwbAb-JNxaB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="jtNqFM774UwbAb-JNxaB-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jtNqFM774UwbAb-JNxaB-16" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="¿Altitud actual &amp;lt; altitud previa y no se ha dectectado apogeo?" vertex="1">
+          <mxGeometry height="110" width="200" x="310" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="jtNqFM774UwbAb-JNxaB-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VERDADERO" vertex="1">
+          <mxGeometry height="30" width="60" x="210" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="jtNqFM774UwbAb-JNxaB-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="FALSO" vertex="1">
+          <mxGeometry height="30" width="60" x="570" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="jtNqFM774UwbAb-JNxaB-23" edge="1" parent="1" source="jtNqFM774UwbAb-JNxaB-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jtNqFM774UwbAb-JNxaB-21" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="Apogeo_dectectado" vertex="1">
+          <mxGeometry height="80" width="120" x="90" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="jtNqFM774UwbAb-JNxaB-24" edge="1" parent="1" source="jtNqFM774UwbAb-JNxaB-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jtNqFM774UwbAb-JNxaB-22" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="Todo esta dentro de lo normal" vertex="1">
+          <mxGeometry height="80" width="120" x="590" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="jtNqFM774UwbAb-JNxaB-27" edge="1" parent="1" source="jtNqFM774UwbAb-JNxaB-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jtNqFM774UwbAb-JNxaB-28" edge="1" parent="1" source="jtNqFM774UwbAb-JNxaB-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jtNqFM774UwbAb-JNxaB-25" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="¿Altitud&amp;nbsp;≤ 0 o el operador finalizó?" vertex="1">
+          <mxGeometry height="80" width="140" x="340" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="jtNqFM774UwbAb-JNxaB-33" edge="1" parent="1" source="jtNqFM774UwbAb-JNxaB-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jtNqFM774UwbAb-JNxaB-29" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="Continuar" vertex="1">
+          <mxGeometry height="80" width="120" x="90" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="jtNqFM774UwbAb-JNxaB-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VERDADERO" vertex="1">
+          <mxGeometry height="30" width="60" x="210" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="jtNqFM774UwbAb-JNxaB-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="FALSO" vertex="1">
+          <mxGeometry height="30" width="60" x="570" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="jtNqFM774UwbAb-JNxaB-34" edge="1" parent="1" source="jtNqFM774UwbAb-JNxaB-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jtNqFM774UwbAb-JNxaB-32" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="Volver a ingresar datos" vertex="1">
+          <mxGeometry height="80" width="120" x="590" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="jtNqFM774UwbAb-JNxaB-36" edge="1" parent="1" source="jtNqFM774UwbAb-JNxaB-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jtNqFM774UwbAb-JNxaB-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mostrar altitud máxima, temperatura promedio y acelaración máxima" vertex="1">
+          <mxGeometry height="70" width="120" x="350" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="jtNqFM774UwbAb-JNxaB-37" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="FIN" vertex="1">
+          <mxGeometry height="80" width="120" x="350" y="1240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
