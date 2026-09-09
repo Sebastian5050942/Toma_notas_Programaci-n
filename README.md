@@ -125,7 +125,7 @@ Python, Visual Studio Code y Colab
 
 - Toma un pseudocódigo de un ejercicio de la unidad anterior o escribe tu propio pseudocódigo, similar al mostrado en el ejemplo de arriba
 
-## Ejericio:
+## Ejercicio:
 
 <img width="473" height="596" alt="image" src="https://github.com/user-attachments/assets/56340565-134c-4a9f-a41e-ffa1b541596a" />
 
